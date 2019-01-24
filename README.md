@@ -1,6 +1,6 @@
 # Client Care Contact Form
 
-![alt text](https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/RETAIL04_160209885_AR_-1_SNSLYZCJWPEE.jpg)
+![Manheim Logo](https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/RETAIL04_160209885_AR_-1_SNSLYZCJWPEE.jpg)
 
 ## Introduction
 During my 3 months of internship, I was tasked with creating a client care contact form for the Manheim website. Manheim is the worlds largest buying, selling, and trading used cars market. As a Cox Automotive brand, Manheim allows dealers and buyers to go to auctions in-person or online through a live simulcast. Each seller and buyer has their own account where they can sell, buy, and trade their used cars. 
